@@ -3,8 +3,9 @@
 ## Notes: Equipped average item level and GearScore in character, inspect and player tooltips.
 ## Notes-deDE: Angelegtes Itemlevel und GearScore im Charakterfenster, beim Untersuchen und im Spieler-Tooltip.
 ## Author: Custom
-## Version: 1.2.4
+## X-Release-Date: 20261101
+## SavedVariables: RebuffedItemLevelVersionDB
+## Version: 1.2.5
 
 RebuffedItemLevel.lua
-VersionStatus.lua
 VersionCheck.lua
