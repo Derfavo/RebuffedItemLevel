@@ -1,7 +1,7 @@
 {
   "addon": "RebuffedItemLevel",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "interface": 30300,
   "repository": "https://github.com/Derfavo/RebuffedItemLevel",
-  "release": "https://github.com/Derfavo/RebuffedItemLevel/releases/tag/v1.2.5"
+  "release": "https://github.com/Derfavo/RebuffedItemLevel/releases/tag/v1.2.6"
 }

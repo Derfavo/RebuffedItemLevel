@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.6
+
+- Prevent guild version messages when the character has no confirmed guild membership.
+- Handle numeric zero membership flags and wait for a nonempty guild name.
+- Recheck membership before sending a delayed message.
+
 ## 1.2.5
 
 - Replace the external checker with automatic version exchanges inside the game, following DBM's approach.
